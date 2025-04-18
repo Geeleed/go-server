@@ -12,6 +12,8 @@
 
 # วิธีอื่น ๆ ในการเปิด server อย่างง่าย ๆ
 
+เปิด cmd/terminal ไปที่ directory ที่ต้องการนำขึ้น server แล้ว...
+
 ## ถ้าใช้ node.js
 
 ```bash
